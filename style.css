@@ -1,0 +1,51 @@
+body{
+    background-image: url("./Assets/covid.png");
+    font-family: 'Roboto Slab', serif;
+}
+
+.box{
+    background-color: whitesmoke;
+    display:block;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 530px;
+    margin-top: 40px;
+}
+
+p{
+
+    text-align: left;
+    margin: 10px 5px;
+   
+}
+#txt{
+    width: 40%;
+    border-radius: 10px;
+   
+}
+
+.header{
+    display: flex;
+    place-content: center;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 70px;
+}
+h5{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
